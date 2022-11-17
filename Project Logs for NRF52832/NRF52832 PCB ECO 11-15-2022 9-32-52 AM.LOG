@@ -1,0 +1,5 @@
+Added Component: Designator=U?(48-VFQFN)
+Add component (AddParameter): Name = "MFR"; Value = "Nordic Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "nRF52832_QFAA"; VariantName = "[No Variations]"
+Added Class: Name=GPIO
+Added Room: Name=GPIO

@@ -1,0 +1,33 @@
+Added Component: Designator=P?(HDR1X6)
+Add component (AddParameter): Name = "CMT"; Value = "Header 6P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "S1012EC-40-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "WAVE"; VariantName = "[No Variations]"
+Added Component: Designator=P?(HDR1X3)
+Add component (AddParameter): Name = "CMT"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "WAVE"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=P0.07 Pin=P?-1
+Added Pin To Net: NetName=P0.06 Pin=P?-2
+Added Pin To Net: NetName=P0.05 Pin=P?-3
+Added Pin To Net: NetName=P0.04 Pin=P?-4
+Added Pin To Net: NetName=P0.03 Pin=P?-5
+Added Pin To Net: NetName=P0.02 Pin=P?-6
+Added Member To Class: ClassName=GPIO Member=Component C? 104/16V
+Added Member To Class: ClassName=GPIO Member=Component C? 101/50V
+Added Member To Class: ClassName=GPIO Member=Component C? 104/16V
+Added Member To Class: ClassName=GPIO Member=Component C? 105/16V
+Added Member To Class: ClassName=GPIO Member=Component C? 12pF
+Added Member To Class: ClassName=GPIO Member=Component C? 0.8pF
+Added Member To Class: ClassName=GPIO Member=Component C? 475/10V
+Added Member To Class: ClassName=GPIO Member=Component C? 12pF
+Added Member To Class: ClassName=GPIO Member=Component C? 12pF
+Added Member To Class: ClassName=GPIO Member=Component C? 104/16V
+Added Member To Class: ClassName=GPIO Member=Component C? 12pF
+Added Member To Class: ClassName=GPIO Member=Component P? Header 6P
+Added Member To Class: ClassName=GPIO Member=Component P?
